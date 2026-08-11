@@ -17,7 +17,7 @@ a {
   color: inherit;
 }
 
-h1, h2, h3, ul, p {
+h1, h2, h3, ul, p, blockquote{
   margin: 0px;
 }
 
